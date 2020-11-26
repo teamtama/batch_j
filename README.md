@@ -2,4 +2,6 @@
 
 batch_j
 
-test test test test
+- 환경설정 [x]
+
+- 크롤링 []
